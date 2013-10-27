@@ -1,0 +1,3 @@
+#This two script is used to install openstack grizzly swift 
+swift-proxy.sh is for building ring files
+swift-storage.sh is for partition and formatting disk
